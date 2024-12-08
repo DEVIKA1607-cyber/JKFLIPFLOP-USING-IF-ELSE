@@ -37,12 +37,17 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+Developed by: D DEVIKA
+RegisterNumber:24002534
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+![Screenshot 2024-12-08 064256](https://github.com/user-attachments/assets/65bf224d-33a9-4831-9c87-c70111163cd8)
 */
-
 **RTL LOGIC FOR FLIPFLOPS**
+
+![Screenshot 2024-12-08 065424](https://github.com/user-attachments/assets/245eb2af-f6e0-43ef-9ee8-b82cb6ba290d)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+JK flipflop verified successfully
