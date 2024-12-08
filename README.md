@@ -52,4 +52,5 @@ RegisterNumber:24002534
 ![Screenshot 2024-12-08 065447](https://github.com/user-attachments/assets/e9026a84-c4a0-41da-bd48-73dd6238bb97)
 
 **RESULTS**
-JK flipflop verified successfully
+
+JK flipflop verified successfully.
