@@ -42,12 +42,14 @@ Developed by: D DEVIKA
 RegisterNumber:24002534
 
 ![Screenshot 2024-12-08 064256](https://github.com/user-attachments/assets/65bf224d-33a9-4831-9c87-c70111163cd8)
-*/
+
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![Screenshot 2024-12-08 065424](https://github.com/user-attachments/assets/245eb2af-f6e0-43ef-9ee8-b82cb6ba290d)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![Screenshot 2024-12-08 065447](https://github.com/user-attachments/assets/e9026a84-c4a0-41da-bd48-73dd6238bb97)
+
 **RESULTS**
 JK flipflop verified successfully
